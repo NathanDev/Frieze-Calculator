@@ -1,5 +1,5 @@
 # Frieze-Calculator
-Frieze Calculator, programming languages that have been used are, HTML, CSS,  Jacascript 
+Frieze Calculator, programming languages used are as follows, HTML, CSS, Bootstrap for the framework,  Jacascript and jquery.
 
 Instructions for installing and running
 
