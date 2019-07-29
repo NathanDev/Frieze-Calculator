@@ -3,9 +3,9 @@ Frieze Calculator, programming languages that have been used are, HTML, CSS,  Ja
 
 Instructions for installing and running
 
-1, Create a file on your desktop.
-2. Dowloand from the green button above on the github page, the files into the folder you have created.
-3. open th index.html file into a web browser.
+1, Create a file on your desktop. <br>
+2. Dowloand from the green button above on the github page, the files into the folder you have created. <br>
+3. open th index.html file into a web browser. <br>
 
 Appreciate the opportunity moving forward for the role.
 
