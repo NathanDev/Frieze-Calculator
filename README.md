@@ -9,5 +9,5 @@ Instructions for installing and running
 
 Appreciate the opportunity moving forward for the role.
 
-The role sounds like and amazxing opportinty and a place were can truly grow as a developer and become an asset.
+The role sounds like and amazing opportinty and a great company were I can truly were can truly grow as a developer and become an asset.
 
